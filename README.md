@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Pedro Arthur dos Santos Costa, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Sistemas de Informação na faculdade Cesar School. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[ocostapedro](https://www.linkedin.com/in/ocostapedro/)".
+Me chamo Pedro Arthur dos Santos Costa, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Sistemas de Informação na faculdade Cesar School. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin "[ocostapedro](https://www.linkedin.com/in/ocostapedro/)".
 
 <p align="left">
     <a href="https://github.com/OCostaPedro?tab=followers">
