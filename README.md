@@ -33,10 +33,6 @@
 
 Estudante de **Sistemas de Informação na CESAR School**, com conhecimentos em **Python, JavaScript, HTML5, CSS3, Git e GitHub**, além de metodologias ágeis como **Scrum e Kanban**.
 
-Tenho experiência como **Gestor de Tráfego**, trabalhando com análise de métricas e otimização de campanhas, e como **Professor de Jiu-Jitsu na Gracie Barra**, experiência que fortaleceu competências como liderança, comunicação, disciplina e resolução de problemas.
-
-Atualmente também atuo como **Representante de Turma**, desenvolvendo ainda mais habilidades de organização, comunicação e trabalho em equipe.
-
 🎯 **Objetivo:** conquistar uma oportunidade na área de tecnologia para aplicar meus conhecimentos, evoluir profissionalmente e desenvolver soluções de software.
 
 ---
